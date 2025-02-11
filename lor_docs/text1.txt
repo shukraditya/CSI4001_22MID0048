@@ -1,0 +1,24 @@
+John Doe  
+Senior Software Architect  
+Tech Innovations Inc.  
+john.doe@techinnovations.com  
+(555) 123-4567  
+February 11, 2025  
+
+Hiring Manager  
+CodeCraft Solutions  
+123 Tech Park Avenue  
+San Francisco, CA  
+
+Dear Hiring Manager,  
+
+I am writing to enthusiastically recommend Priya Verma for the Software Engineer position at CodeCraft Solutions. I have had the pleasure of working with Priya for three years at Tech Innovations Inc., where she has been an integral part of our development team.  
+
+Priya is an exceptionally talented software engineer with expertise in Python, JavaScript, and cloud-based solutions. She played a pivotal role in developing our in-house analytics tool, which improved data processing speeds by 35%. Her ability to solve complex technical challenges and her dedication to writing clean, efficient code have made her an invaluable member of our team.  
+
+In addition to her technical skills, Priya is a natural collaborator. She communicates effectively with cross-functional teams and is always eager to mentor junior developers. Her innovative thinking and proactive approach consistently lead to successful project outcomes.  
+
+I am confident that Priya will bring the same level of excellence and dedication to your organization. Please feel free to contact me if you have any questions or need further information about her qualifications.  
+
+Sincerely,  
+John Doe  
